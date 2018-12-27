@@ -1,24 +1,28 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+windows に ubuntu デスクトップ作成
+手順は別紙参照
 
-Things you may want to cover:
+日本語入力
+https://www.karelie.net/install-ibus-mozc-1804/
 
-* Ruby version
+ubuntu に ruby インストール
+https://qiita.com/godai0505/items/44d12ef0d52b2dc9d560
 
-* System dependencies
+ubuntu に rails インストール
+http://exrecord.net/how-to-construct-ruby-on-rails-environment-in-ubuntu#Ruby_on_Rails
 
-* Configuration
+dockerでjenkins
+※docker hubのイメージで作成
 
-* Database creation
+dockerで実行環境作成
+※centos7とする
 
-* Database initialization
+rubyインストール
+https://qiita.com/micheleno13/items/c0f8160b0deb2984677f
 
-* How to run the test suite
+railsインストール
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
 
-* ...
+
